@@ -1,6 +1,6 @@
 {
   "name": "coveralls-send",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calls coveralls.io and ignores errors",
   "main": "bin/coveralls.js",
   "scripts": {
