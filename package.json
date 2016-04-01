@@ -2,7 +2,7 @@
   "name": "coveralls-send",
   "version": "0.0.1",
   "description": "Calls coveralls.io and ignores errors",
-  "main": "bin/index.js",
+  "main": "bin/coveralls.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
