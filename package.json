@@ -1,0 +1,27 @@
+{
+  "name": "coveralls-send",
+  "version": "0.0.1",
+  "description": "Calls coveralls.io and ignores errors",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitovi/coveralls-send.git"
+  },
+  "keywords": [
+    "coveralls",
+    "coverage"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitovi/coveralls-send/issues"
+  },
+  "homepage": "https://github.com/bitovi/coveralls-send#readme",
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "coveralls": "^2.11.9"
+  }
+}
